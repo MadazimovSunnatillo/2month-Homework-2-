@@ -22,3 +22,5 @@ console.log(about);
 console.log(lname);
 console.log(age);
 console.log(skills);
+
+alert ("let's goooooo!");
